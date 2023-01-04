@@ -2,8 +2,26 @@ h1{
     color: green;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    background-color: ;
 }
 h3{
-    background-color: cornflowerblue;
     font-style: italic;  
+}
+h2{
+    color: blue;
+    font-style: oblique;
+}
+h4{
+    color: darkred;
+}
+ul{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: darkgreen;
 }
